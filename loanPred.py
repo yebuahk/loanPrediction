@@ -1,3 +1,7 @@
+'''
+Author : Kevin Yebuah
+prediction on whether loan will be paid in full or not
+'''
 import pandas as pd
 import numpy as np
 import seaborn as sns
